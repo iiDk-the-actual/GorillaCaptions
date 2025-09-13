@@ -18,7 +18,7 @@ namespace GorillaCaptions.Classes
         {
             spawnTime = Time.time;
             uiTarget = transform.Find("Canvas").gameObject;
-            gameObject.transform.localPosition = Vector3.up * 0.45f;
+            gameObject.transform.localPosition = Vector3.up * 0.6f;
         }
             
 
